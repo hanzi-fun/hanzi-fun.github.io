@@ -1,5 +1,5 @@
             "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"],
+                "all": [],
                 "facebook": false,
                 "google": false,
                 "github": true,
