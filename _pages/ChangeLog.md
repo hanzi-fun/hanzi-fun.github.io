@@ -6,15 +6,29 @@ category: Log
 layout: post
 ---
 
+
+## Version 1.0.1
+- Changed 词语详情页：把其他信息中的近义词和反义词单独取出展示，方便查看对应详情
+- Removed 汉字详情页：底部的其他信息移除 
+- Fixed 汉字列表：修复列表详情自动滚动到上次位置存在异常
+- Added 优化搜索：新增特定词语结构查询：ABAC（一五一十）/ABBC（自欺欺人）/ABCC（一表堂堂）等
+
+## Version 1.0.0
+- Changed 优化icon
+
+## Version 0.0.6
+- Added 汉字列表界面记录上次的位置，下次进入自动滚动到对应的位置
+- Added 汉字详情和词语详情新增滚过的字的显示标题
+- Fix 搜索当从有结果的界面到搜索无结果的界面时，存在的展示和崩溃问题
+
 ## Version 0.0.5
 - Fixed  笔画笔顺的动画问题导致的微弱卡顿现象
 - Fixed  汉字详情介绍展示问题
 - Fixed  搜索功能的崩溃bug
 
 ## Version 0.0.4
-- Added 优化翻译功能：新增支持拼音/汉字结构/笔画数
+- Added 优化搜索功能：新增支持拼音/汉字结构/笔画数
 - Added 无障碍相关提醒
-
 
 ## Version 0.0.3
 - Added 新增翻译功能：中文翻译-英文
@@ -27,8 +41,10 @@ layout: post
 - Added 笔记功能 [暂时隐藏]
 - Added 搜索功能：汉字（部首/汉字/词语）
 
-## V 0.0.1
-- Added 内容：拼音、汉字、词语、三字经、千字文、百家姓
-- Added 翻译：Google 翻译
-- Added 搜索：汉字、词语、偏旁部首、自定义模糊查询
-- Added 学习：收藏
+## Version 0.0.1
+- Added 拼音基础
+- Added 偏旁部首
+- Added 汉字结构
+- Added 汉字分级学习
+- Added 三字经
+- Added 千字文

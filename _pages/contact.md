@@ -7,5 +7,5 @@ layout: post
 ---
 
 ## 联系方式
-- Email:tiejunshe@gmail
+- Email:tiejunshe@gmail.com
 - Github:[SheTieJun](https://github.com/SheTieJun)
