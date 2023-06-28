@@ -23,7 +23,7 @@ permalink: /
 ## 功能介绍
 1. 汉字详情：拼音+笔画+词语+解释+文字读音
 2. 收藏功能: 汉字 和 词语
-3. 搜索功能：部首/汉字/词语/拼音/笔画数 
+3. 搜索功能：部首/汉字/词语/拼音/笔画数/特定的词语结构 
 4. 词语详情：需要下载功能模块；读音+解释+单个字解析
 5. 翻译功能：需要下载功能模块；中文翻译-英文
 6. 笔画笔顺功能：需要下载功能模块；支持汉字的笔画笔顺书写
@@ -32,4 +32,4 @@ permalink: /
 ## 二、下载地址
 [下载地址](https://play.google.com/store/apps/details?id=com.shetj.chinese.mobile)
 
-<img src="img/Snipaste_2023-06-25_11-25-391.png" width = "300" height = "auto" alt="图片名称" align=center />
+<img src="img/Snipaste_2023-06-25_11-25-391.png" width = "300" height = "auto" alt="图片名称" />
