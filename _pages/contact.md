@@ -1,6 +1,6 @@
 ---
 title: Contact
-author: Tiejun
+author: TieJun
 date: 2022-02-05
 category: About
 layout: post

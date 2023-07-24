@@ -1,11 +1,22 @@
 ---
 title: Change Log
-author: She TieJun
+author: TieJun
 date: 2022-02-04
 category: Log
 layout: post
 ---
 
+感谢您的选择！
+
+## Version 1.0.3
+- Fixed 翻译优化：当翻译模型没有下载的时候，隐藏翻译功能
+- Changed 优化搜索：优化部分点击事件，优化只搜索具体类型的内容
+- Fixed 内容修复:修复部分内容拼音错误
+- Changed 优化翻译：添加翻译模块后，词语中的单个字的解释可以进行翻译
+- Added 声音朗读：拼音、千字文、百家姓、三字经
+
+## Version 1.0.2
+- Fixed 汉字结构：修复release导致的崩溃问题
 
 ## Version 1.0.1
 - Changed 词语详情页：把其他信息中的近义词和反义词单独取出展示，方便查看对应详情

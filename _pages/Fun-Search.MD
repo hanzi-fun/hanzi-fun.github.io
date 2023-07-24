@@ -1,6 +1,6 @@
 ---
 title: 搜索功能介绍
-author: Tiejun
+author: TieJun
 date: 2023-06-28
 category: Func
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: About
-author: Tiejun
+author: TieJun
 date: 2022-02-04
 category: About
 layout: post
