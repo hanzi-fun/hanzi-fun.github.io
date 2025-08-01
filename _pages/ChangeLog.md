@@ -8,6 +8,28 @@ layout: post
 
 感谢您的选择！
 
+## Version 1.0.7
+- Updated 给【千字文】和【三字经】每个字添加点击，方便查看相关字的显示
+- Added 【学习】：添加【考核】功能（听写相关需要打开语音引擎）
+
+## Version 1.0.6
+- Updated 尝试不使用分包：因为部分用户根本不知道如何使用～
+- Changed 汉字详情页: 优化记录已经学习过的汉字
+- Updated 更新Google Play Core : 移除`api("com.google.android.play:core:1.10.3")`
+添加
+```kotlin
+    api("com.google.android.play:review-ktx:2.0.1") //点评
+    api("com.google.android.play:app-update-ktx:2.1.0") //更新
+    api("com.google.android.play:feature-delivery-ktx:2.1.0") // 分包
+    api("com.google.android.play:asset-delivery-ktx:2.2.2") //资源分包
+```
+- Add 增加离线翻译功能(基于google)，增加更多翻译模型的显示
+- Add 增加APP点评入口
+
+## Version 1.0.5（未发布）
+- Updated 更新基础类库,优化App主题：新增对比度中、对比度高的主题
+- Updated 部分界面UI调整
+
 ## Version 1.0.4
 - Fixed 低版本手机本地数据库初次加载问题：问题严重
 - Added 添加学习日历：每日学习的汉字和词语

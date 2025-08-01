@@ -43,3 +43,6 @@ layout: post
 
 ## 8. 历史记录查询
 <img alt="图片名称" height="auto" src="https://hanzi-fun.github.io/img/搜索界面.webp" width="300"/>
+
+## 9. 考核功能
+<img alt="图片名称" height="auto" src="https://hanzi-fun.github.io/img/考核功能.webp" width="300"/>
